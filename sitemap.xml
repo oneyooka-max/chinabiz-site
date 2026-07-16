@@ -4,7 +4,7 @@
 
   <!-- Page principale -->
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/</loc>
+    <loc>https://chinabiz.fr/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -12,7 +12,7 @@
 
   <!-- Page confidentialité -->
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/privacy</loc>
+    <loc>https://chinabiz.fr/privacy</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -20,42 +20,42 @@
 
   <!-- Articles blog -->
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/blog/sourcing-chine-2026</loc>
+    <loc>https://chinabiz.fr/blog/sourcing-chine-2026</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/blog/apps-chinoises-wechat-alipay-didi</loc>
+    <loc>https://chinabiz.fr/blog/apps-chinoises-wechat-alipay-didi</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/blog/guangzhou-vs-shenzhen-sourcing</loc>
+    <loc>https://chinabiz.fr/blog/guangzhou-vs-shenzhen-sourcing</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/blog/prix-reels-1688-negociation</loc>
+    <loc>https://chinabiz.fr/blog/prix-reels-1688-negociation</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/blog/canton-fair-2026-guide</loc>
+    <loc>https://chinabiz.fr/blog/canton-fair-2026-guide</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://chinabiz-suneyes.vercel.app/blog/rapatrier-marchandise-chine-france</loc>
+    <loc>https://chinabiz.fr/blog/rapatrier-marchandise-chine-france</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
