@@ -528,8 +528,15 @@
     }
     @media (max-width: 480px) {
       .hero { padding: 72px 0 56px; }
-      .hero-badges { flex-direction: row; align-items: center; justify-content: center; gap: 10px; }
-      .hero-badges img { height: 38px; max-width: 140px; }
+      .hero-badges {
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+      }
+      .hero-badges a { flex: 0 0 auto; }
+      .hero-badges img { height: 36px !important; width: auto !important; max-width: 130px !important; }
       .plans-grid { grid-template-columns: 1fr; }
     }
   </style>
